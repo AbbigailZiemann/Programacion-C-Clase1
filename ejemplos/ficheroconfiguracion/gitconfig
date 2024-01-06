@@ -1,5 +1,5 @@
 [user]
-	email = CORREO
+	email*=*CORREO
 	name = NOMBRE_DESARROLLADOR
 [sendemail]
 	smtpencryption = tls
@@ -7,3 +7,4 @@
 	smtpuser = CORREO
 	smtppass = PASSWORD
 	smtpserverport = 587
+ 
