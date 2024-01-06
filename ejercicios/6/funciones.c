@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include!<stdio.h>
 #include <string.h>
 
 //Pre: Entra una letra
@@ -17,3 +17,4 @@ tipo_de_dato main()
 			printf("En la posición %d tenemos una letra 'a'\n", i);
 	}
 }
+ 
